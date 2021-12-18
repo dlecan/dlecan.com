@@ -1,5 +1,6 @@
 - [x] mettre un template en place
 - [x] migrer les anciens posts de blog
+- [x] supprimer les warnings de generation
 - [] adapter tous les anciens posts à la nouvelle syntaxe
 - [] favicons et autres avatar
 - [] changer façon dont les pages sont numérotées (cf. https://www.rockyourcode.com/)
@@ -8,3 +9,4 @@
 - [] migrer le 'about' de www.dlecan.com
 - [] changer les credits en bas du site
 - [] mettre en place les redirections depuis [www|blog].dlecan.com vers dlecan.com
+- [] déployer dlecan.com sur Netlify
