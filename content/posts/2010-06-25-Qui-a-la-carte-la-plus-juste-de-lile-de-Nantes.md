@@ -4,8 +4,6 @@ title: "Qui a la carte la plus juste de l'île de Nantes ?"
 taxonomies: 
   tags: 
     - Le reste
-permalink: /archives/64-Qui-a-la-carte-la-plus-juste-de-lile-de-Nantes.html
-s9y_link: http://www.dlecan.com/archives/64-Qui-a-la-carte-la-plus-juste-de-lile-de-Nantes.html
 ---
 <p>Il y 4 ans, il a fallu plusieurs années à TeleAtlas, le fournisseur de carte, pour prendre en <br />
 compte la mise en sens unique de ma rue, avec pour conséquence des <br />

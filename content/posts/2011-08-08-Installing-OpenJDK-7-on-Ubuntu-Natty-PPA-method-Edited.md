@@ -4,8 +4,6 @@ title: Installing OpenJDK 7 on Ubuntu Natty (PPA method) (Edited)
 taxonomies: 
   tags: 
     - Ubuntu
-permalink: /archives/69-Installing-OpenJDK-7-on-Ubuntu-Natty-PPA-method-Edited.html
-s9y_link: http://www.dlecan.com/archives/69-Installing-OpenJDK-7-on-Ubuntu-Natty-PPA-method-Edited.html
 ---
 <p><strong>Edit 2011-11-30 : this PPA is now deprecated&#160;as OpenJDK7 is available in Ubuntu Oneiric repositories.</strong></p><br />
 <p>Many methods to install OpenJDK 7 on Ubuntu can be found on the Net :</p><br />

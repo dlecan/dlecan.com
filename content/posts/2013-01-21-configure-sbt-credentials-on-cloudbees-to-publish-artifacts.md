@@ -14,7 +14,7 @@ But wait, I'm trying to publish artifacts from a Cloudbees Jenkins instance. How
 
 On Cloudbees, all files handled by Jenkins come from either your SCM (GIT, SVN, ...) or from your private repository: `/private/<my_account>/` ([you can upload files in thanks to WebDAV](http://wiki.cloudbees.com/bin/view/DEV/Sharing+Files+with+Build+Executors)).
 
-As I want to load crendentials in SBT, that is to say secret passwords, I want to the 2nd source.
+As I want to load credentials in SBT, that is to say secret passwords, I want to the 2nd source.
 
 *Note*: yes, I could have setup the following configuration in my build:
 
@@ -30,7 +30,7 @@ So it's much better to use `*.sbt` files to configure global credentials, but ho
 
 ## Create and upload your `*.sbt` file your private folder
 
-I have choosen [to copy all my `*.sbt` files](http://wiki.cloudbees.com/bin/view/DEV/Sharing+Files+with+Build+Executors) into `/private/<my_account>/.sbt` folder.
+I have chosen [to copy all my `*.sbt` files](http://wiki.cloudbees.com/bin/view/DEV/Sharing+Files+with+Build+Executors) into `/private/<my_account>/.sbt` folder.
 
 ## Create a new shell script
 

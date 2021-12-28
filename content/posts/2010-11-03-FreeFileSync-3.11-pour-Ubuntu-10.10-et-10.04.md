@@ -4,8 +4,6 @@ title: FreeFileSync 3.11 pour Ubuntu 10.10 et 10.04
 taxonomies: 
   tags: 
     - FreeFileSync
-permalink: /archives/66-FreeFileSync-3.11-pour-Ubuntu-10.10-et-10.04.html
-s9y_link: http://www.dlecan.com/archives/66-FreeFileSync-3.11-pour-Ubuntu-10.10-et-10.04.html
 ---
 <p><a href="http://www.dlecan.com/archives/65-Des-nouvelles-de-FreeFileSync-3.9.html">Contrairement à ce que j'indiquais dans mon précédent billet</a>, FreeFileSync est finalement disponible pour Ubuntu 10.10 comme pour Ubuntu 10.04.</p> <br />
 <p>En effet, j'ai réussi à <em>backporter</em> la librairie boost 1.44 disponible en <em>Debian experimental</em> pour Ubuntu 10.04 et 10.10. Combiné à une évolution du système de build introduite par ZenJu dans les sources de FreeFileSync et qui cassait le build du package, il m'a fallu plusieurs semaines pour réussir à contourner tous ces problèmes.</p> <br />

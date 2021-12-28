@@ -4,8 +4,6 @@ title: "Recherche d'un remplaçant à Unison (1/2)"
 taxonomies: 
   tags: 
     - Ubuntu
-permalink: /archives/55-Recherche-dun-remplacant-a-Unison-12.html
-s9y_link: http://www.dlecan.com/archives/55-Recherche-dun-remplacant-a-Unison-12.html
 ---
 <a href="http://www.dlecan.com/archives/54-Remplacer-Unison.html">Unison devant être remplacé</a>, je me suis lancé dans la recherche d'un nouvel outil.<br />
 <br />

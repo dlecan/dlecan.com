@@ -15,4 +15,4 @@ J'y ai présenté la conférence "Papy fait du Scala", dont voici le support de 
 
 Et la vidéo :
 
-{% youtube ZXBfVUAfDuM %}
+{{ youtube(id="ZXBfVUAfDuM") }}

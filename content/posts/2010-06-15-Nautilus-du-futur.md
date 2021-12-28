@@ -4,8 +4,6 @@ title: Nautilus du futur
 taxonomies: 
   tags: 
     - Ubuntu
-permalink: /archives/63-Nautilus-du-futur.html
-s9y_link: http://www.dlecan.com/archives/63-Nautilus-du-futur.html
 ---
 <p>Whaa, le Nautilus du futur ! Un Nautilus dont on peut configurer la barre d'outils, enlever les éléments redondants et afficher un chemin de navigation lisible ? Qui sépare proprement les répertoires utilisateur des disques de stockage ?<br /></p> <br />
 <p>Le résultat :<br /><!-- s9ymdb:8 --><!-- s9ymdb:9 --><!-- s9ymdb:9 --><img width="250" height="198" src="http://www.dlecan.com/uploads/NautilusDuFutur.serendipityThumb.jpg" style="border: 0px none; padding-left: 5px; padding-right: 5px;" class="serendipity_image_center" alt=""  /><br /></p> <br />

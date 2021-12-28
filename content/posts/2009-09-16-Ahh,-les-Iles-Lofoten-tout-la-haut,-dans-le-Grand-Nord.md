@@ -4,8 +4,6 @@ title: "Ahh, les Iles Lofoten (tout là-haut, dans le Grand Nord)"
 taxonomies: 
   tags: []
 
-permalink: /archives/53-Ahh,-les-Iles-Lofoten-tout-la-haut,-dans-le-Grand-Nord.html
-s9y_link: http://www.dlecan.com/archives/53-Ahh,-les-Iles-Lofoten-tout-la-haut,-dans-le-Grand-Nord.html
 ---
 Seulement trois jours aux Iles Lofoten, c'est beaucoup trop court.<br />
 Mais quel bonheur ! Les paysages, la lumière, tout est y magnifique. Je crois me souvenir que le Routard qualifie les Iles Lofoten du plus bel endroit du plus beau pays du monde.<br />

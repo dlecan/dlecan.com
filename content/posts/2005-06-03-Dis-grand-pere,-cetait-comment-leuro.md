@@ -4,8 +4,6 @@ title: "Dis grand-père, c'était comment l'euro ?"
 taxonomies: 
   tags: 
     - Europe
-permalink: /archives/32-Dis-grand-pere,-cetait-comment-leuro.html
-s9y_link: http://www.dlecan.com/archives/32-Dis-grand-pere,-cetait-comment-leuro.html
 ---
 Ainsi pourrait s'exprimer mes petits-enfants dans quelques dizaines d'années si l'on en croit un journal Allemand.<br />
 L'euro ne survivrait pas à l'épreuve du temps, ce qui serait bien dommage.<br />

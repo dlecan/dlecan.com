@@ -4,8 +4,6 @@ title: "Recherche d'un remplaçant à Unison (2/2)"
 taxonomies: 
   tags: 
     - Ubuntu
-permalink: /archives/57-Recherche-dun-remplacant-a-Unison-22.html
-s9y_link: http://www.dlecan.com/archives/57-Recherche-dun-remplacant-a-Unison-22.html
 ---
 <p><a href="http://www.dlecan.com/archives/55-Recherche-dun-remplacant-a-Unison-12.html">Ma recherche d'un outil de synchronisation de fichiers intégré à Ubuntu n'ayant rien donné</a>, je me suis résigné à chercher un outil non empaqueté pour Ubuntu, avec l'espoir, soit d'en trouver un multi-plateforme, ce qui augmente sa communauté d'utilisateurs et donc sa pérennité (mais sans aucune garantie dans le temps effectivement), soit uniquement dédié à Ubuntu.<br /></p> <br />
 <p>Je trouve rapidement <a href="http://en.wikipedia.org/wiki/File_synchronization">une page sur Wikipedia</a> qui liste quelques produits open-source et multi-plateforme. Parmi les huit candidats, six semblent multi-plateforme, et parmi ceux-ci deux sortent du lot : <a href="http://synkron.sourceforge.net/index.php">Synkron</a> et <a href="http://sourceforge.net/projects/freefilesync/">FreeFileSync</a>, que je teste immédiatement.</p> <br />

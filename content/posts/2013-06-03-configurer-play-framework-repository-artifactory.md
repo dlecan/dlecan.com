@@ -14,7 +14,7 @@ Cette technique est très intéressante, mais il faut bien tenir compte des inco
 
 1. Pas de maîtrise des dépendances ou des dépôts configurés par les développeurs : on télécharge n'importe quoi depuis n'importe où
 
-2. Gâchi de bande passante / latence : chaque développeur télécharge chaque dépendance depuis Internet, là où une mutualisation depuis un 
+2. Gâchis de bande passante / latence : chaque développeur télécharge chaque dépendance depuis Internet, là où une mutualisation depuis un 
 serveur localisé dans le réseau de l'entreprise ferait économiser de la bande passante et gagner en réactivité (latence réduite)
 
 3. Vous ne pouvez pas dépendre d'artifacts uniquement internes à votre entreprise (sans les publier sur Internet)
@@ -33,13 +33,13 @@ Par la suite, je suppose que la variable `PLAY_HOME` pointe vers votre installat
 
 Créez le fichier `~/sbt/.repositories` avec le contenu suivant :
 
-{% codeblock ~/sbt/.repositories %}
+```properties
 [repositories]
   local
   maven-local
   ivy-proxy-releases: http://localhost:8180/artifactory/ivy-remote-repos/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
   maven-proxy-releases: http://localhost:8180/artifactory/maven-remote-repos/
-{% endcodeblock %}
+```
 
 Ce fichier indique à SBT l'ensemble des dépôts qu'il peut consulter pour résoudre les dépendances :
 
@@ -55,23 +55,23 @@ Ce fichier indique à SBT l'ensemble des dépôts qu'il peut consulter pour rés
 
 Éditez le fichier `$PLAY_HOME/framework/sbt/sbt.boot.properties` et complétez le bloc suivant :
 
-{% codeblock $PLAY_HOME/framework/sbt/sbt.boot.properties %}
+```properties
 ...
 [ivy]
   ivy-home: ${play.home}/../repository
 
-{% endcodeblock %}
+```
 
 De cette manière :
 
-{% codeblock $PLAY_HOME/framework/sbt/sbt.boot.properties %}
+```properties
 ...
 [ivy]
   ivy-home: ${play.home}/../repository
   override-build-repos: ${sbt.override.build.repos-true}
   repository-config: ${sbt.global.base-${user.home}/.sbt}/repositories
 
-{% endcodeblock %}
+```
 
 Avec ces deux instructions, on force Play Framework à utiliser uniquement les dépôts configurés dans le fichier `~/sbt/.repositories`.
 

@@ -4,8 +4,6 @@ title: Tout ce que vous avez toujours voulu savoir sur l'OMC
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/14-Tout-ce-que-vous-avez-toujours-voulu-savoir-sur-lOMC.html
-s9y_link: http://www.dlecan.com/archives/14-Tout-ce-que-vous-avez-toujours-voulu-savoir-sur-lOMC.html
 ---
 <img src="http://www.wto.org/images/img_logos/10anniv_160px.gif" alt="Logo OMC" /><br />
 2005 marque le dixième anniversaire de l'OMC.<br />

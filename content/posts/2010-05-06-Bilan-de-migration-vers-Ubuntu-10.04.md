@@ -4,8 +4,6 @@ title: Bilan de migration vers Ubuntu 10.04
 taxonomies: 
   tags: 
     - Ubuntu
-permalink: /archives/60-Bilan-de-migration-vers-Ubuntu-10.04.html
-s9y_link: http://www.dlecan.com/archives/60-Bilan-de-migration-vers-Ubuntu-10.04.html
 ---
 <p>Je viens de migrer 3 PC que je gère de Ubuntu 9.10 vers Ubuntu 10.04. Globalement, tout s'est bien déroulé, je suis content des outils de migration de Canonical.</p> <br />
 <p>Voici les différences/problèmes que j'ai rencontré et comment je les ai résolus :</p> <br />

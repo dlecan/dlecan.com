@@ -3,8 +3,6 @@ title: "Réflexion sur mon objectivité"
 taxonomies: 
   tags: 
     - Le reste
-permalink: /archives/19-Reflexion-sur-mon-objectivite.html
-s9y_link: http://www.dlecan.com/archives/19-Reflexion-sur-mon-objectivite.html
 ---
 
 C'est intéressant de voir comment chaque personne qui écrit un blog rencontre à un moment où à un autre les mêmes situations.<br />
@@ -23,4 +21,4 @@ Effectivement, je ne poste pas de références du <a href="http://www.lepoint.fr
 <br />
 L'explication est simple. Pour Le Monde, j'y suis abonné, donc facile pour moi d'y faire référence. Pour Libération, ils ont cet avantage de fournir un fil d'actualité RSS : l'information vient à moi. Les autres n'en fournissent pas à ma connaissance et je n'ai pas le temps malheureusement d'aller visiter tous les sites tous les jours.<br />
 <br />
-Cela nuit à mon objectivité, je vais faire des efforts <img src="http://www.dlecan.com/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" />.
+Cela nuit à mon objectivité, je vais faire des efforts 😄.

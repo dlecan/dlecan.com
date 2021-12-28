@@ -4,8 +4,6 @@ title: "Un oeil sur le Brésil"
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/28-Un-oeil-sur-le-Bresil.html
-s9y_link: http://www.dlecan.com/archives/28-Un-oeil-sur-le-Bresil.html
 ---
 Ce soir à 22h40 sur France 2, "un oeil sur la planète" spécial Brésil, l'excellente émission de Thierry Thuillier.<br />
 <br />

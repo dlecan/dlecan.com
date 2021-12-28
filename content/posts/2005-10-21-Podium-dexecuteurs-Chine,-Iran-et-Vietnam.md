@@ -4,8 +4,6 @@ title: "Podium d'exécuteurs : Chine, Iran et Vietnam"
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/45-Podium-dexecuteurs-Chine,-Iran-et-Vietnam.html
-s9y_link: http://www.dlecan.com/archives/45-Podium-dexecuteurs-Chine,-Iran-et-Vietnam.html
 ---
 Hop, encore un <a href="http://www.handsoffcain.org/bancadati/index.php?tipotema=arg&amp;idtema=6000633">rapport annuel</a> (c'est la saison), concernant cette fois-ci la <a href="http://www.revoltes.org/">peine de mort dans le monde</a>.<br />
 <br />

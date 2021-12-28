@@ -4,8 +4,6 @@ title: Sportifs de chambre
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/46-Sportifs-de-chambre.html
-s9y_link: http://www.dlecan.com/archives/46-Sportifs-de-chambre.html
 ---
 Durex vient de publier son rapport annuel sur le sexe et les pratiques sexuelles des hommes et des femmes. <a href="http://www.durex.com/uk/globalsexsurvey/2005results.asp">Ce rapport</a> est assez complet puisqu'il analyse le comportement 317&#160;000 personnes dans 41 pays.<br />
 <br />

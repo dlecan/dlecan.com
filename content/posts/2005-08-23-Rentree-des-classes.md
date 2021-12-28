@@ -4,8 +4,6 @@ title: "Rentrée des classes"
 taxonomies: 
   tags: 
     - Le reste
-permalink: /archives/39-Rentree-des-classes.html
-s9y_link: http://www.dlecan.com/archives/39-Rentree-des-classes.html
 ---
 L'activité médiatique a été au plus bas pendant quelques semaines, mais le monde ne s'est pas arrêté pour autant : la Chine a continué à monter en puissance, les prix du pétrole ont poursuivi leur explosion. En bref, rien de bien nouveau.<br />
 <br />

@@ -4,8 +4,6 @@ title: "\"Peak oil\" atteint"
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/30-Peak-oil-atteint.html
-s9y_link: http://www.dlecan.com/archives/30-Peak-oil-atteint.html
 ---
 J'en suis persuadé depuis quelques mois : nous avons atteint le "peak oil".<br />
 <br />

@@ -4,8 +4,6 @@ title: Chine au galop
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/48-Chine-au-galop.html
-s9y_link: http://www.dlecan.com/archives/48-Chine-au-galop.html
 ---
 Ce qui devait arriver arrive ... beaucoup plus vite que prévu !<br />
 <br />

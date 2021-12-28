@@ -3,7 +3,8 @@
 - [x] supprimer les warnings de generation
 - [] adapter tous les anciens posts à la nouvelle syntaxe
 - [] favicons et autres avatar
-- [] changer façon dont les pages sont numérotées (cf. https://www.rockyourcode.com/)
+- [] changer façon dont les pages de pagination sont numérotées (cf. https://www.rockyourcode.com/)
+- [] changer texte de la page d'accueil
 - [] afficher un last-modified. Possible ?
 - [] agrandir la taille des polices (cf. https://www.rockyourcode.com/)
 - [] migrer le 'about' de www.dlecan.com

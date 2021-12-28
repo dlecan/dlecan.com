@@ -5,8 +5,6 @@ taxonomies:
   tags: 
     - Europe
     - Monde
-permalink: /archives/44-Corruption-chez-nous-aussi-!.html
-s9y_link: http://www.dlecan.com/archives/44-Corruption-chez-nous-aussi-!.html
 ---
 Quand on parle de corruption, on pense facilement à un homme (policier ?) qui arrondit ses fins de mois en fermant les yeux sur certains trafics. Tout le monde s'y retrouve et tout le monde est content.<br />
 <br />

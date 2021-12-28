@@ -5,8 +5,6 @@ taxonomies:
   tags: 
     - FreeFileSync
     - Ubuntu
-permalink: /archives/56-How-to-install-FreeFileSync-on-Ubuntu-PPA-Edited.html
-s9y_link: http://www.dlecan.com/archives/56-How-to-install-FreeFileSync-on-Ubuntu-PPA-Edited.html
 ---
 <p>This is a step-by-step procedure for installing FreeFileSync on Ubuntu, aimed at beginners or users who rarely worked with PPAs (Personal Package Archives) before.</p> <br />
 <p>Please note: this guide applies to Ubuntu Karmic (9.10), Lucid (10.04), Maverick (10.10) and later versions.<br /></p> <br />

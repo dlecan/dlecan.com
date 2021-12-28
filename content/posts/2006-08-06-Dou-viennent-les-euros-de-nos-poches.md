@@ -4,8 +4,6 @@ title: "D'où viennent les euros de nos poches ?"
 taxonomies: 
   tags: 
     - Europe
-permalink: /archives/49-Dou-viennent-les-euros-de-nos-poches.html
-s9y_link: http://www.dlecan.com/archives/49-Dou-viennent-les-euros-de-nos-poches.html
 ---
 <a href="http://www.eurobilltracker.com/">On pouvait déjà suivre</a> le trajet des billets en euro à travers l'Europe mais à l'initiative de chacun d'entre nous. Cette fois-ci, c'est <a href="http://www.esdo.prd.fr/">une étude très sérieuse</a> qui nous montre la circulation des pièces au sein de l'Europe après que des spécialistes aient analysés nos porte-monnaie.<br />
 <br />

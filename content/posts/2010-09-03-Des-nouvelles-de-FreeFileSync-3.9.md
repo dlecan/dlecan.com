@@ -4,8 +4,6 @@ title: Des nouvelles de FreeFileSync 3.9
 taxonomies: 
   tags: 
     - FreeFileSync
-permalink: /archives/65-Des-nouvelles-de-FreeFileSync-3.9.html
-s9y_link: http://www.dlecan.com/archives/65-Des-nouvelles-de-FreeFileSync-3.9.html
 ---
 <p>FreeFileSync 3.9 est sorti depuis quelques semaines déjà et j'ai pris du retard sur la construction du package pour Ubuntu.</p> <br />
 <p>Zenju, son auteur, l'a beaucoup fait évoluer techniquement pour cette version, en ajoutant en particulier une dépendance vers une librairie d'utilitaires très intéressante d'un point de vue du développement : <a href="http://www.boost.org/">libboost</a>.</p> <br />

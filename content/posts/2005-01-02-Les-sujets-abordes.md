@@ -4,12 +4,10 @@ title: "Les sujets abordés"
 taxonomies: 
   tags: 
     - Le reste
-permalink: /archives/3-Les-sujets-abordes.html
-s9y_link: http://www.dlecan.com/archives/3-Les-sujets-abordes.html
 ---
-Les limites de ce blog ne sont pas encore clairement fixées. Des tas de sujets sont déjà dissertés, dissesqués, analysés dans un autre tas de blogs, de forums et de newsgroup et il n'est pas facile de se faire une place.<br />
+Les limites de ce blog ne sont pas encore clairement fixées. Des tas de sujets sont déjà dissertés, dissequés, analysés dans un autre tas de blogs, de forums et de newsgroup et il n'est pas facile de se faire une place.<br />
 <br />
-Les blogs sont souvent la place de témoignage <i>sincères</i>, de la part de bloggueurs qui vivent l'actualité. Je vous renvoie vers tous les sites qui parlent du tsunami catastrophique qui a frappé l'asie du sud-est (en particulier <a href="http://fr.wikipedia.org/wiki/Tremblement_de_terre_du_26_d%C3%A9cembre_2004">Wikipedia</a>)<br />
+Les blogs sont souvent la place de témoignage <i>sincères</i>, de la part de blogueurs qui vivent l'actualité. Je vous renvoie vers tous les sites qui parlent du tsunami catastrophique qui a frappé l'asie du sud-est (en particulier <a href="http://fr.wikipedia.org/wiki/Tremblement_de_terre_du_26_d%C3%A9cembre_2004">Wikipedia</a>)<br />
 Personnellement, je ne suis pas au centre de l'actualité, mais un mouvement aussi puissant que ce tsunami est en cours m'intéresse : la <b>mondialisation</b>.<br />
 Je n'entend pas en parler de manière polémique, la mondialisation ayant des aspects positifs et négatifs. Dans tous les cas, je considère qu'il n'y pas que <i>nous</i> qui avons droit à la richesse.<br />
 <br />

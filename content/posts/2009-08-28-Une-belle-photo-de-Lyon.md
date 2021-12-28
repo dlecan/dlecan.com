@@ -4,8 +4,6 @@ title: Une belle photo de Lyon
 taxonomies: 
   tags: 
     - Photos
-permalink: /archives/52-Une-belle-photo-de-Lyon.html
-s9y_link: http://www.dlecan.com/archives/52-Une-belle-photo-de-Lyon.html
 ---
 Lyon, par une froide  matinée de Février 2008 ...<br />
 <br />

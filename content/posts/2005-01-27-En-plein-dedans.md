@@ -4,8 +4,6 @@ title: En plein dedans
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/17-En-plein-dedans.html
-s9y_link: http://www.dlecan.com/archives/17-En-plein-dedans.html
 ---
 On est en plein dedans mais certains plus que d'autres.<br />
 <br />

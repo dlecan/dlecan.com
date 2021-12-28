@@ -8,7 +8,7 @@ taxonomies:
 ---
 
 Je suis un ardent partisan du vélo pour aller travailler et je ne rate jamais une occasion d'en faire la promotion.
-Evidemment, tout le monde me rétorque : "oui, mais moi je ne peux parce que ..." (au choix) :
+Évidemment, tout le monde me rétorque : "oui, mais moi je ne peux parce que ..." (au choix) :
 
 - J'ai mes enfants à poser/prendre à la crèche/école/collège, ...
 - Je fais mes courses en allant/rentrant du travail
@@ -25,7 +25,7 @@ Mais il arrive tout de même qu'il pleuve et nous allons voir que cette situatio
 
 ## Prévisions météo
 
-[Météo France](http://www.meteo.fr/), [La Chaine Météo](http://www.lachainemeteo.com/), ... sont des sites généralistes permettant de connaitre les tendances météo par demi-journée : il devrait pleuvoir ce matin, il devrait faire beau cet après-midi.
+[Météo France](http://www.meteo.fr/), [La Chaine Météo](http://www.lachainemeteo.com/), ... sont des sites généralistes permettant de connaître les tendances météo par demi-journée : il devrait pleuvoir ce matin, il devrait faire beau cet après-midi.
 
 On est dans le conditionnel : s'il prévoir de la pluie ce matin, quand exactement ? A 9h ? Gênant pour aller au travail à vélo. A 11h ? Aucun problème, vous pouvez prendre votre vélo pour aller travailler.
 

@@ -4,8 +4,6 @@ title: Langues de machos
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/41-Langues-de-machos.html
-s9y_link: http://www.dlecan.com/archives/41-Langues-de-machos.html
 ---
 <a href="http://www.cybersciences.com/Cyber/3.0/N3403.asp">Les langues disparaissent plus vite que les espèces animales</a>, j'ai du mal à la croire. Etant donné la catastrophe qui s'annonce au niveau des espèces végétales et animales, c'est un ouragan/tsunami/tremblement de terre qui doit être en train de ravager les langues humaines!<br />
 <br />

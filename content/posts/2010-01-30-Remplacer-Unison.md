@@ -4,8 +4,6 @@ title: Remplacer Unison
 taxonomies: 
   tags: 
     - Ubuntu
-permalink: /archives/54-Remplacer-Unison.html
-s9y_link: http://www.dlecan.com/archives/54-Remplacer-Unison.html
 ---
 J'utilise depuis pas mal de temps <a href="http://doc.ubuntu-fr.org/unison" title="Doc Ubuntu pour Unison">Unison</a> pour synchroniser mes clés USB avec un répertoire local sous Ubuntu.<br />
 <br />

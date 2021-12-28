@@ -4,8 +4,6 @@ title: Point sur l'Euro
 taxonomies: 
   tags: 
     - Europe
-permalink: /archives/51-Point-sur-lEuro.html
-s9y_link: http://www.dlecan.com/archives/51-Point-sur-lEuro.html
 ---
 Rappelez-vous, l'introduction de l'<a href="http://fr.wikipedia.org/wiki/Zone_euro"  title="Euro sur Wikipedia">Euro</a> remonte déjà à presque 6 ans.<br />
 12 pays au départ (France, Allemagne, Belgique, Pays-Bas, Italie, Espagne, Portugal, Grèce, Finlande, Irlande, Luxembourg, Autriche) rejoints au 1er janvier dernier par la Slovénie.<br />

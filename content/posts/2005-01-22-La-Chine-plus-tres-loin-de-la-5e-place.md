@@ -4,8 +4,6 @@ title: "La Chine plus très loin de la 5è place"
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/16-La-Chine-plus-tres-loin-de-la-5e-place.html
-s9y_link: http://www.dlecan.com/archives/16-La-Chine-plus-tres-loin-de-la-5e-place.html
 ---
 En cherchant à connaître de manière chiffrée brute la puissance de la Chine d'aujourd'hui, j'ai eu quelques suprises sur ce pays, mais aussi sur la France.<br />
 <br />

@@ -4,8 +4,6 @@ title: "Un finish à la \"Michel Vaillant\""
 taxonomies: 
   tags: 
     - Le reste
-permalink: /archives/31-Un-finish-a-la-Michel-Vaillant.html
-s9y_link: http://www.dlecan.com/archives/31-Un-finish-a-la-Michel-Vaillant.html
 ---
 Je regarde rarement la Formule 1, surtout depuis la suprématie écrasante de Ferrari sur les autres écuries.<br />
 Il semble que les temps changent, puisque l'on assiste depuis le début la saison à la 4è victoire consécutive de Renault, la 3è consécutive d'Alonso et un finish sur ce dernier grand prix digne de la bande dessinée "Michel Vaillant".<br />

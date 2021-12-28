@@ -17,4 +17,4 @@ Le principe est simple :
 - Je les préviens via blog-zerocarbone@bonial.fr
 - Ils se chargent de tout pour la plantation de mon arbre en Bretagne
 
-Reste plus qu'à trouver, par la suite, un moyen d'identifier mon arbre dans la plantation et lui rendre visite régulièrement :-)
+Reste plus qu'à trouver, par la suite, un moyen d'identifier mon arbre dans la plantation et lui rendre visite régulièrement 😄

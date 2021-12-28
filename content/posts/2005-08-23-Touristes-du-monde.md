@@ -4,8 +4,6 @@ title: Touristes du monde
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/40-Touristes-du-monde.html
-s9y_link: http://www.dlecan.com/archives/40-Touristes-du-monde.html
 ---
 Je suis vraiment étonné du nombre de touristes que j'ai pu rencontré à Nantes cet été : des anglais, des allemands, des italiens, des espagnols, ... Peut-être que la pub indirecte du Times de Londres (c'est le magazine qui a déclaré que Nantes est la ville la plus agréable d'Europe) commence à porter ses fruits.<br />
 <br />

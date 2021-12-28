@@ -4,8 +4,6 @@ title: "Duel sur les clous #2"
 taxonomies: 
   tags: 
     - "Différences"
-permalink: /archives/8-Duel-sur-les-clous-2.html
-s9y_link: http://www.dlecan.com/archives/8-Duel-sur-les-clous-2.html
 ---
 J'ai passé quelque temps en Allemagne il y a quelques années et je crois bien que c'était le paradis des passages pour piétons.<br />
 Là où en France il faut nager au milieu des crocodiles, le passage pour piétons est un gué sûr, fiable et serein en Allemagne.<br />

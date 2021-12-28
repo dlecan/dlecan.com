@@ -4,8 +4,6 @@ title: Bilan des ratifications
 taxonomies: 
   tags: 
     - Europe
-permalink: /archives/20-Bilan-des-ratifications.html
-s9y_link: http://www.dlecan.com/archives/20-Bilan-des-ratifications.html
 ---
 Voici un bilan des différentes ratifications de constitution européenne pour les pays ayant recours au référendum. Il est évident que les parlements des autres pays voteront "oui".<br />
 <br />

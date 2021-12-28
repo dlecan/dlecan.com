@@ -4,8 +4,6 @@ title: L'Allemagne durcit le ton
 taxonomies: 
   tags: 
     - Europe
-permalink: /archives/12-LAllemagne-durcit-le-ton.html
-s9y_link: http://www.dlecan.com/archives/12-LAllemagne-durcit-le-ton.html
 ---
 Pas cool les allemands !<br />
 Pris à la gorge par un énorme taux de chômage et des réformes impopulaires (obligatoires), Schröder n'a pas d'autres choix que de demander une modification des critères du Pacte de Stabilité, à l'opposé de ce que l'Allemagne pronait il y a 10 ans.<br />

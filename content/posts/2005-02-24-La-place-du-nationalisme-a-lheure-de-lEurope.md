@@ -4,8 +4,6 @@ title: "La place du nationalisme à l'heure de l'Europe"
 taxonomies: 
   tags: 
     - Europe
-permalink: /archives/13-La-place-du-nationalisme-a-lheure-de-lEurope.html
-s9y_link: http://www.dlecan.com/archives/13-La-place-du-nationalisme-a-lheure-de-lEurope.html
 ---
 Ca date de quelques semaines déjà, mais je trouve que la situation entre Flamands et Wallons s'aggrave d'années en années.<br />
 <br />

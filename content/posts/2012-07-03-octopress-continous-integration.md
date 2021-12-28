@@ -21,7 +21,7 @@ And installing theses tools are generally a pain: ruby/rvm, rake, bundler, encod
 
 So the perfect "blog post flow" would be:
 
- 1. write blog post everywhere: laptop, personnal/professional computer, ...
+ 1. write blog post everywhere: laptop, personal/professional computer, ...
  2. generate and deploy from only one place
 
 I found a centralized place to generate and deploy this blog: a [Cloudbees](http://www.cloudbees.com) Jenkins instance!

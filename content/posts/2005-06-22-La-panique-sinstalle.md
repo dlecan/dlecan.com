@@ -4,10 +4,8 @@ title: La panique s'installe
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/36-La-panique-sinstalle.html
-s9y_link: http://www.dlecan.com/archives/36-La-panique-sinstalle.html
 ---
-Suite à mon <a href="http://www.dlecan.com/archives/30-Peak-oil-atteint.html">article sur le <i>peak atteint</i></a> d'il y a quelques semaines, j'avais reçu quelques réactions optimistes : "<i>mais non, ce n'est pas encore la fin du monde, du pétrole y'en a encore pour longtemps</i>". C'était signé G. W. B. !<br />
+Suite à mon [article sur le <i>peak atteint</i>](@/posts/2005-04-04-Peak-oil-atteint.md) d'il y a quelques semaines, j'avais reçu quelques réactions optimistes : "<i>mais non, ce n'est pas encore la fin du monde, du pétrole y'en a encore pour longtemps</i>". C'était signé G. W. B. !<br />
 <br />
 Visiblement, tout le monde n'est pas de cet avis, et comme la filière hydrogène est loin d'être opérationnelle, certains tentent de <a href="http://www.futura-sciences.com/news-petrole-tout-prix_6530.php">trouver des solutions</a>.<br />
 <br />

@@ -3,6 +3,7 @@ layout: post
 title: "Configurer Scala SBT avec un repository Artifactory"
 comments: true
 published: true
+date: 2013-04-24
 taxonomies: 
   tags: [sbt, artifactory]
 ---
@@ -31,15 +32,13 @@ C'est ce dernier paramétrage que je vous propose de décrire en détails.
 
 Voici ce que nous allons configurer :
 
-{% img /images/sbt-proxy-cloud-setup.png 650 528 'Artifactory dans son environnement' 'Source: documentation de Scala SBT_OPTS' %}
+!['Artifactory dans son environnement'](sbt-proxy-cloud-setup.png)
 
-{% pullquote %}
 Il existe plusieurs outils qui peuvent permettre de gérer des artifacts, dans différents formats (Maven, RPM, Deb, P2, ...), comme [Sonatype Nexus][nexus] ou [JFrog Artifactory][artifactory].
 
-{"Ce qui compte pour SBT, c'est un gestionnaire d'artifacts qui supporte les formats Ivy et Maven."} J'ai donc choisi Artifactory.
+Ce qui compte pour SBT, c'est un gestionnaire d'artifacts qui supporte les formats Ivy et Maven. J'ai donc choisi Artifactory.
 
 Je vous passe les détails d'installation de l'outil, ils sont [très bien décrits dans sa documentation][install-artifactory].
-{% endpullquote %}
 
 La configuration des dépôts d'Artifactory s'effectue de la manière suivante :
 
@@ -69,13 +68,13 @@ La configuration de SBT s'effectue en deux temps.
 
 Pour cela, créez le fichier `~/sbt/.repositories` avec le contenu suivant :
 
-{% codeblock ~/sbt/.repositories %}
+```properties
 [repositories]
   local
   maven-local
   ivy-proxy-releases: http://localhost:8180/artifactory/ivy-remote-repos/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
   maven-proxy-releases: http://localhost:8180/artifactory/maven-remote-repos/
-{% endcodeblock %}
+```
 
 Ce fichier indique à SBT l'ensemble des dépôts qu'il peut consulter pour résoudre les dépendances :
 
@@ -103,11 +102,11 @@ Un simple `sbt update` dans un projet SBT suffit à vérifier la bonne mise à j
 
 # Et pour Play Framework 2 ?
 
-Cette configuration ne fonctionnant pas pour Play Framework 2, [consultez cet article dédié][/configurer-play-framework-repository-artifactory/].
+Cette configuration ne fonctionnant pas pour Play Framework 2, [consultez cet article dédié](@/posts/2013-06-03-configurer-play-framework-repository-artifactory.md).
 
-[scala-sbt]: http://www.scala-sbt.org/	Projet Scala SBT
-[maven]: http://maven.apache.org/ 		Projet Maven
-[gradle]: http://www.gradle.org/		Projet Gradle
+[scala-sbt]: http://www.scala-sbt.org/	"Projet Scala SBT"
+[maven]: http://maven.apache.org/ 		"Projet Maven"
+[gradle]: http://www.gradle.org/		"Projet Gradle"
 [play2]: http://www.playframework.com/
 [repo-maven2-central]: http://repo1.maven.org/maven2/
 [repo-typesafe]: http://repo.typesafe.com/typesafe/ivy-releases/

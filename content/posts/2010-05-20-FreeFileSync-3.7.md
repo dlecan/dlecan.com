@@ -4,8 +4,6 @@ title: FreeFileSync 3.7
 taxonomies: 
   tags: 
     - FreeFileSync
-permalink: /archives/61-FreeFileSync-3.7.html
-s9y_link: http://www.dlecan.com/archives/61-FreeFileSync-3.7.html
 ---
 <p><!-- s9ymdb:7 -->Les versions de FreeFileSync s'enchainent pour ZenJu (l'auteur du programme), au rythme d'une version tous les mois et demi environ.<br /></p> <br />
 <p> <a title="Changelog complet" href="https://sourceforge.net/projects/freefilesync/files/freefilesync/v3.7/Changelog.txt/download">Les modifications</a> représentent principalement des corrections d'anomalies.</p> <br />

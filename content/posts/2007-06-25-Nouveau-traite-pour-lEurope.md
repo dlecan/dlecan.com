@@ -4,8 +4,6 @@ title: "Nouveau traité pour l'Europe"
 taxonomies: 
   tags: 
     - Europe
-permalink: /archives/50-Nouveau-traite-pour-lEurope.html
-s9y_link: http://www.dlecan.com/archives/50-Nouveau-traite-pour-lEurope.html
 ---
 Finalement, je n'irais pas jusqu'au bout de mon billet sur le <a href="http://www.dlecan.com/archives/20-Bilan-des-ratifications.html"  title="Bilan des ratifications">bilan des ratifications de la Constitution européenne</a>.<br />
 <br />

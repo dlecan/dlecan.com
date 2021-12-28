@@ -4,8 +4,6 @@ title: "La puissance se mesure aussi à ça !"
 taxonomies: 
   tags: 
     - Monde
-permalink: /archives/11-La-puissance-se-mesure-aussi-a-ca-!.html
-s9y_link: http://www.dlecan.com/archives/11-La-puissance-se-mesure-aussi-a-ca-!.html
 ---
 La Chine possède(ra) autant d'abonnés au téléphone mobile que dans l'Europe tout entière.<br />
 <br />

@@ -4,8 +4,6 @@ title: Nouveau service pour les cyclistes sur Nantes
 taxonomies: 
   tags: 
     - "Vélo"
-permalink: /archives/67-Nouveau-service-pour-les-cyclistes-sur-Nantes.html
-s9y_link: http://www.dlecan.com/archives/67-Nouveau-service-pour-les-cyclistes-sur-Nantes.html
 ---
 <p>Le service existait <a href="http://www.geovelo.fr/">de manière autonome</a> et a déjà été choisi <a href="http://vgps.paris.fr/">par la ville de Paris</a> en tant que service de calcul d'itinéraires à vélo, j'ai nommé Geovelo !<br /><br />
 Nantes métropole <a href="http://www.nantesmetropole.fr/actualite/l-actualite-thematique/le-plan-velo-trace-la-route-transport-et-deplacements-38586.kjsp">vient aussi de choisir</a> <a href="http://geovelo.nantesmetropole.fr/">ce service</a> pour renseigner les cyclistes nantais, mais nous sommes gratifiés de <a href="http://www.geovelo.fr/blog/20/06/2011/geovelo-nantes-metropole/">bonus supplémentaires</a> exclusifs, notamment &quot;[une] interface communautaire de notation de la cyclabilité&quot;.<br /><br />
