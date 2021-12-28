@@ -1,0 +1,12 @@
+[build]
+  publish = "public"
+  command = "zola build --base-url $URL"
+
+[build.environment]
+  ZOLA_VERSION = "0.15.2"
+
+[context.deploy-preview]
+  command = "zola build --base-url $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "zola build --drafts --base-url $DEPLOY_PRIME_URL"
