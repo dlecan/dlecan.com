@@ -3,8 +3,9 @@
 - [x] supprimer les warnings de generation
 - [x] agrandir la taille des polices (cf. https://www.rockyourcode.com/)
 - [x] changer texte de la page d'accueil
+- [x] avatar
+- [] favicons
 - [] adapter les 3 derniers anciens posts à la nouvelle syntaxe
-- [] favicons et autres avatar
 - [] migrer le 'about' de www.dlecan.com
 - [] changer les credits en bas du site
 - [] mettre en place les redirections depuis [www|blog].dlecan.com vers dlecan.com
