@@ -4,7 +4,7 @@
 - [x] agrandir la taille des polices (cf. https://www.rockyourcode.com/)
 - [x] changer texte de la page d'accueil
 - [x] avatar
-- [] favicons
+- [x] favicons
 - [] adapter les 3 derniers anciens posts à la nouvelle syntaxe
 - [] migrer le 'about' de www.dlecan.com
 - [] changer les credits en bas du site
