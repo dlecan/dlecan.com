@@ -2,7 +2,7 @@
 - [x] migrer les anciens posts de blog
 - [x] supprimer les warnings de generation
 - [x] agrandir la taille des polices (cf. https://www.rockyourcode.com/)
-- [] changer texte de la page d'accueil
+- [x] changer texte de la page d'accueil
 - [] adapter les 3 derniers anciens posts à la nouvelle syntaxe
 - [] favicons et autres avatar
 - [] migrer le 'about' de www.dlecan.com
