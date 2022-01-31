@@ -3,4 +3,4 @@
 	url = https://github.com/RatanShreshtha/DeepThought.git
 [submodule "themes/dlecan-zola-theme"]
 	path = themes/dlecan-zola-theme
-	url = git@github.com:dlecan/dlecan-zola-theme.git
+	url = https://github.com/dlecan/dlecan-zola-theme.git
