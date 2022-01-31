@@ -25,7 +25,7 @@ En entreprise, 1/ est généralement résolu par "blocage naturel" : on ne peut 
 
 Comment paramétrer Play Framework pour utiliser Artifactory ?
 
-[J'ai déjà expliqué comment configurer SBT pour utiliser Artifactory](@/blog/2021-04-24-configurer-scala-sbt-repository-artifactory/index.md), mais, bien que Play Framework utilise SBT, ces explications ne s'y appliquent pas (pour le moment). SBT étant embarqué dans Play Framework, il ne lit pas les instructions de configuration fournies en ligne de commande.
+[J'ai déjà expliqué comment configurer SBT pour utiliser Artifactory](@/blog/2013-04-24-configurer-scala-sbt-repository-artifactory/index.md), mais, bien que Play Framework utilise SBT, ces explications ne s'y appliquent pas (pour le moment). SBT étant embarqué dans Play Framework, il ne lit pas les instructions de configuration fournies en ligne de commande.
 
 Pas de différence du côté d'Artifactory en revanche.
 
