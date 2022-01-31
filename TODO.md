@@ -5,9 +5,9 @@
 - [x] changer texte de la page d'accueil
 - [x] avatar
 - [x] favicons
+- [x] migrer le 'about' de www.dlecan.com
+- [x] changer les credits en bas du site
 - [] adapter les 3 derniers anciens posts à la nouvelle syntaxe
-- [] migrer le 'about' de www.dlecan.com
-- [] changer les credits en bas du site
 - [] mettre en place les redirections depuis [www|blog].dlecan.com vers dlecan.com
 - [] déployer dlecan.com sur Netlify
 - [] adapter tous les autres anciens posts à la nouvelle syntaxe

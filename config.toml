@@ -9,7 +9,7 @@ build_search_index = true
 
 theme = "dlecan-zola-theme"
 
-title = "Damien Lecan @ECT"
+title = "Damien Lecan"
 
 taxonomies = [
     # { name = "categories", feed = true, paginate_by = 10 },
