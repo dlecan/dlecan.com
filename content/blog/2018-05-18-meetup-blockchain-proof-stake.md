@@ -4,7 +4,7 @@ title: "'Proof-of-Stake' au meetup Blockchain et Société"
 comments: true
 published: true
 taxonomies: 
-  tags: [meetup, conference, decentralisation, blockchain, ethereum, speaker]
+  tags: [meetup, conference, decentralization, blockchain, ethereum, speaker]
 ---
 
 Hier soir, j'ai eu le plaisir de présenter une conférence à base de gâteau Michel et Augustin 🤣 présentant la "Proof-Of-Stake" ou preuve d'enjeu [meetup de mai](https://www.meetup.com/fr-FR/Blockchain-Societe-Nantes/events/250342863/) de l'association [Blockchain et Société](https://blockchainsociete.org).

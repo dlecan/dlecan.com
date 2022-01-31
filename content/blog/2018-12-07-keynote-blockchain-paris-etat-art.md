@@ -4,7 +4,7 @@ title: "'État de l'art des Blockchains & co.' à Blockchain Paris 2018"
 comments: true
 published: true
 taxonomies: 
-  tags: [Blockchain Paris, conference, keynote, decentralisation, blockchain, speaker]
+  tags: [Blockchain Paris, conference, keynote, decentralization, blockchain, speaker]
 ---
 
 J'ai présenté la semaine dernière [la keynote "État de l'art de Blockchain & co."](https://blockchainevent.fr/2018/speakers/damien-lecan/) à [Blockchain Paris 2018](https://blockchainevent.fr/2018/) à la Cité Universitaire Internationale.

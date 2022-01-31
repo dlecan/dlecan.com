@@ -4,7 +4,7 @@ title: "'Smart-contracts under attack' au GDG Toulouse"
 comments: true
 published: true
 taxonomies: 
-  tags: [meetup, conference, decentralisation, blockchain, ethereum, speaker, gdgtoulouse, security, video]
+  tags: [meetup, conference, decentralization, blockchain, ethereum, speaker, gdgtoulouse, security, video]
 ---
 
 J'ai été invité le 5 juin 2018 à venir parler des *smart-contracts* Ethereum au [GDG Toulouse](https://www.meetup.com/fr-FR/GDG-Toulouse/events/250099870/).

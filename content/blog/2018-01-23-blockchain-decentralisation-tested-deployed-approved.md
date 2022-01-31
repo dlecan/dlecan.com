@@ -4,7 +4,7 @@ title: "'Web décentralisé' au GDG Nantes"
 comments: true
 published: true
 taxonomies: 
-  tags: [gdgnantes, conference, decentralisation, blockchain, ethereum, smart-contract, ipfs, speaker]
+  tags: [gdgnantes, conference, decentralization, blockchain, ethereum, smart-contract, ipfs, speaker]
 ---
 
 [GuiillaumeN](https://twitter.com/guiillaumeN) et moi avons été invités par le [GDG Nantes](https://www.meetup.com/fr-FR/GDG-Nantes/) à présenter notre conférence "Web décentralisé : testé, déployé, approuvé ✔️ !" fin janvier 2018.

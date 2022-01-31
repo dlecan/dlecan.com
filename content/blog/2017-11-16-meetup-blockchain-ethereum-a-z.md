@@ -4,7 +4,7 @@ title: "'Ethereum de A à Z' au meetup Blockchain et Société"
 comments: true
 published: true
 taxonomies: 
-  tags: [meetup, conference, decentralisation, blockchain, ethereum, smart-contract, speaker]
+  tags: [meetup, conference, decentralization, blockchain, ethereum, smart-contract, speaker]
 ---
 
 Hier soir, j'ai eu le plaisir de présenter avec [GuiillaumeN](https://twitter.com/guiillaumeN) et [Benjamin](https://twitter.com/benjifontaine5) notre conférence "Ethereum, de A(lliance) à Z(k-snarks)" au [meetup de novembre](https://www.meetup.com/fr-FR/Blockchain-Societe-Nantes/events/244570850/) de l'association [Blockchain et Société](https://blockchainsociete.org).
