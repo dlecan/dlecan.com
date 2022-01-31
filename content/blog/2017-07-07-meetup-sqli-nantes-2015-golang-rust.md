@@ -16,4 +16,4 @@ Support de présentation :
 
 La vidéo (à partir de 66' pour ma conférence "Go & Rust") :
 
-{% youtube OKg9gIs6W0Y %}
+{{ youtube(id="OKg9gIs6W0Y") }}
