@@ -7,8 +7,10 @@ taxonomies:
   tags: [sbt, playframework, artifactory]
 ---
 
-[Play Framework[(play2] utilise [Scala SBT][scala-sbt] comme outil de build depuis la version 2.0. *A la Maven*, il télécharge les dépendances
-de votre projet Play Framework depuis des dépôts centralisés, comme [Maven Central][repo-maven2-central].
+[Play Framework][play2] utilise [Scala SBT][scala-sbt] comme outil de build depuis la version 2.0.
+*A la Maven*, il télécharge les dépendances de votre projet Play Framework depuis des dépôts centralisés, comme [Maven Central][repo-maven2-central].
+
+<!-- more -->
 
 Cette technique est très intéressante, mais il faut bien tenir compte des inconvénients induits :
 
@@ -23,7 +25,7 @@ En entreprise, 1/ est généralement résolu par "blocage naturel" : on ne peut 
 
 Comment paramétrer Play Framework pour utiliser Artifactory ?
 
-[J'ai déjà expliqué comment configurer SBT pour utiliser Artifactory][/configurer-scala-sbt-repository-artifactory/], mais, bien que Play Framework utilise SBT, ces explications ne s'y appliquent pas (pour le moment). SBT étant embarqué dans Play Framework, il ne lit pas les instructions de configuration fournies en ligne de commande.
+[J'ai déjà expliqué comment configurer SBT pour utiliser Artifactory](@/blog/2021-04-24-configurer-scala-sbt-repository-artifactory/index.md), mais, bien que Play Framework utilise SBT, ces explications ne s'y appliquent pas (pour le moment). SBT étant embarqué dans Play Framework, il ne lit pas les instructions de configuration fournies en ligne de commande.
 
 Pas de différence du côté d'Artifactory en revanche.
 
@@ -123,8 +125,8 @@ Les dépendances sont téléchargées depuis `http://localhost:8180/...`, comme 
 
 Note : l'affichage obtenu peut varier selon vos dépendances paramétrées.
 
-[scala-sbt]: http://www.scala-sbt.org/	Projet Scala SBT
-[maven]: http://maven.apache.org/ 		Projet Maven
+[scala-sbt]: http://www.scala-sbt.org/
+[maven]: http://maven.apache.org/
 [play2]: http://www.playframework.com/
 [repo-maven2-central]: http://repo1.maven.org/maven2/
 [repo-typesafe]: http://repo.typesafe.com/typesafe/ivy-releases/

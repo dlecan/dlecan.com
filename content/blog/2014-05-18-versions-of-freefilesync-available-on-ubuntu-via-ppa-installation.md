@@ -22,6 +22,6 @@ Saucy         | 6.0                                    | Could be if asked |
 Trusty        | 6.5                                    | Yes         |
 
 
-[site]: http://freefilesync.sourceforge.net/ FreeFileSync
+[site]: http://freefilesync.sourceforge.net/
 [binaries]: http://www.fosshub.com/FreeFileSync.html
-[ppa]: https://launchpad.net/~freefilesync/+archive/ffs FreeFileSync releases for Ubuntu PPA
+[ppa]: https://launchpad.net/~freefilesync/+archive/ffs

@@ -9,6 +9,7 @@ taxonomies:
 
 Cela fait maintenant un peu plus de deux années que je "vélotafe" dans les rues de Nantes.
 
+<!-- more -->
 
 ## Pourquoi ?
 

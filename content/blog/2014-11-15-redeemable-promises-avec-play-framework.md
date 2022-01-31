@@ -13,22 +13,20 @@ J'ai eu à intervenir récemment sur un programme écrit en Play Framework v2.3,
 
 Les différents échanges de messages entre les systèmes peuvent être représentés à l'aide du diagramme de séquence suivant :
 
-{% comment %}
+<!-- 
 http://www.websequencediagrams.com/?lz=dGl0bGUgQ2xpZW50IGFzeW5jaHJvbmUKCgANBi0-UGFzc2VQbGF0OlBPU1QgbWVzc2FnZQoADgktPlNlcnZldXI6c2VuZAAXCQAOBy0ANQwgYWNrAC4LLT4AcQY6IDIwMAAXBQpub3RlIG92ZXIAgQsHLAB1CSwAXgggUGx1cyB0YXJkLCB1bgCBCAggZGUgcmV0b3VyCgByCQBuDHJlc3BvbnMAgSsNAHYIAIFTBQAYCQCBcQcAgSsNAIEYCACBMAwAgQcJYWNr&s=modern-blue
-{% endcomment %} 
+-->
 
-{% img center http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQ2xpZW50IGFzeW5jaHJvbmUKCgANBi0-UGFzc2VQbGF0OlBPU1QgbWVzc2FnZQoADgktPlNlcnZldXI6c2VuZAAXCQAOBy0ANQwgYWNrAC4LLT4AcQY6IDIwMAAXBQpub3RlIG92ZXIAgQsHLAB1CSwAXgggUGx1cyB0YXJkLCB1bgCBCAggZGUgcmV0b3VyCgByCQBuDHJlc3BvbnMAgSsNAHYIAIFTBQAYCQCBcQcAgSsNAIEYCACBMAwAgQcJYWNr&s=modern-blue %}
+![Diagram](http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQ2xpZW50IGFzeW5jaHJvbmUKCgANBi0-UGFzc2VQbGF0OlBPU1QgbWVzc2FnZQoADgktPlNlcnZldXI6c2VuZAAXCQAOBy0ANQwgYWNrAC4LLT4AcQY6IDIwMAAXBQpub3RlIG92ZXIAgQsHLAB1CSwAXgggUGx1cyB0YXJkLCB1bgCBCAggZGUgcmV0b3VyCgByCQBuDHJlc3BvbnMAgSsNAHYIAIFTBQAYCQCBcQcAgSsNAIEYCACBMAwAgQcJYWNr&s=modern-blue)
 
 Le programme en Play Framework est nommé "PassePlat" dans ce diagramme.
 
-Les messages montants sont implémentés sous forme d'une API RESTful ; tandis que le retour du "Serveur", asynchrone, est implémentée avec des *callbacks* et une requête REST vers le client d'origine. Voici un exemple de pseudo-code Java sur le traitement du message de retour :
+Les messages montants sont implémentés sous forme d'une API RESTful ; tandis que le retour du "Serveur", asynchrone, est implémentée avec des *callbacks* et une requête REST vers le client d'origine.
+
+Voici un exemple de pseudo-code Java sur le traitement du message de retour :
 
 
-``` java
-...
-/**
- * Receive responses from "server"
- */
+```java
 public class ServerReceiver {
 
 	public void onServerResponse(Response response) {
@@ -47,8 +45,6 @@ public class ServerReceiver {
 	}
 
 }
-...
-
 ```
 
 Le système complet fonctionne bien, mais n'est pas très satisfaisant :
@@ -61,12 +57,12 @@ Le système complet fonctionne bien, mais n'est pas très satisfaisant :
 
 Nous avons donc travaillés sur une implémentation du système plutôt comme ceci :
 
-{% comment %}
+<!--
 http://www.websequencediagrams.com/?lz=dGl0bGUgQ2xpZW50IHN5bmNocm9uZQoKAAwGLT5QYXNzZVBsYXQ6UE9TVCBtZXNzYWdlCgAOCS0-U2VydmV1cjpzZW5kABcJAA4HLQA1DCBhY2sKCm5vdGUgb3ZlcgBuBywAWQksAEIIIFBsdXMgdGFyZCwgdW4AbAggZGUgcmV0b3VyCgBWCQBSDHJlc3BvbnMAgRAMLT4AgVMGOiAyMDAAGAkgKwCBBQUAgTATADsJQWNr&s=modern-blue
-{% endcomment %}
+-->
 
 
-{% img center http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQ2xpZW50IHN5bmNocm9uZQoKAAwGLT5QYXNzZVBsYXQ6UE9TVCBtZXNzYWdlCgAOCS0-U2VydmV1cjpzZW5kABcJAA4HLQA1DCBhY2sKCm5vdGUgb3ZlcgBuBywAWQksAEIIIFBsdXMgdGFyZCwgdW4AbAggZGUgcmV0b3VyCgBWCQBSDHJlc3BvbnMAgRAMLT4AgVMGOiAyMDAAGAkgKwCBBQUAgTATADsJQWNr&s=modern-blue %}
+![Diagram](http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQ2xpZW50IHN5bmNocm9uZQoKAAwGLT5QYXNzZVBsYXQ6UE9TVCBtZXNzYWdlCgAOCS0-U2VydmV1cjpzZW5kABcJAA4HLQA1DCBhY2sKCm5vdGUgb3ZlcgBuBywAWQksAEIIIFBsdXMgdGFyZCwgdW4AbAggZGUgcmV0b3VyCgBWCQBSDHJlc3BvbnMAgRAMLT4AgVMGOiAyMDAAGAkgKwCBBQUAgTATADsJQWNr&s=modern-blue)
 
 L'appel du Client vers le PassePlat est donc bloqué tant que l'acquittement **et** la réponse du Serveur ne sont pas parvenus au PassePlat.
 
@@ -83,10 +79,6 @@ Voyons comment nous pouvons les utiliser pour répondre à notre nouveau besoin.
 Adaptons la classe qui réceptionne les évènements venant du Serveur :
 
 ``` java
-...
-/**
- * Receive responses from "server"
- */
 public class ServerReceiver {
 
 	// Initialisation de la promesse, à vide
@@ -105,7 +97,6 @@ public class ServerReceiver {
 	}
 
 }
-...
 ```
 
 L'élément clé ici est le fait de "résoudre" ou "compléter" la promesse en succès ou en erreur selon le cas. Attention à n'oublier aucun cas de fin de traitement du Serveur, sinon le Client restera bloqué dans ces cas non prévus.
@@ -113,7 +104,6 @@ L'élément clé ici est le fait de "résoudre" ou "compléter" la promesse en s
 Jetons maintenant un coup d'oeil au contrôleur REST sur le PassePlat qui reçoit les requêtes HTTP depuis le Client et qui "bloque" tant que la réponse du Serveur n'est pas parvenue :
 
 ``` java
-...
 public static Promise<Result> sendMessage(...) {
 
 	// Envoi du message entrant vers le serveur
@@ -143,7 +133,6 @@ Par défaut, Play va générer une réponse HTTP avec un code retour 500 et une 
 Voici comment adapter la transformation de la promesse pour renvoyer une erreur 500 et une sérialisation de l'exception en cas de promesse résolue en erreur :
 
 ``` java
-...
 return
 	// Promesse de type Promise<Response>
 	promise

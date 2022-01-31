@@ -7,7 +7,7 @@
 - [x] favicons
 - [x] migrer le 'about' de www.dlecan.com
 - [x] changer les credits en bas du site
-- [] adapter les 3 derniers anciens posts à la nouvelle syntaxe
+- [x] adapter les 3 derniers anciens posts à la nouvelle syntaxe
 - [] mettre en place les redirections depuis [www|blog].dlecan.com vers dlecan.com
 - [] déployer dlecan.com sur Netlify
 - [] adapter tous les autres anciens posts à la nouvelle syntaxe

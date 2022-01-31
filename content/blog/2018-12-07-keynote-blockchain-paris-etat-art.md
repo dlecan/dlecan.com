@@ -12,7 +12,7 @@ L'occasion de revenir sur les bases de la Blockchain.
 
 <!-- more -->
 
-Quelques éléments que j'ai présenté :
+Quelques éléments que j'ai présentés :
 
 - ses valeurs : la confiance, qui vient de immuabilité, transparence, la décentralisation et la désintermédiation
 - des modèles de gouvernance : publique, privée, consortium ...

@@ -7,7 +7,7 @@ taxonomies:
   tags: [breizhcamp, conference, blockchain, android, ethereum, ethmobile, speaker]
 ---
 
-'ai eu le plaisir co-animer avec [GuiillaumeN](https://twitter.com/guiillaumeN) au [Breizhcamp 2017](http://www.breizhcamp.org/) une conférence sur la blockchain.
+J'ai eu le plaisir co-animer avec [GuiillaumeN](https://twitter.com/guiillaumeN) au [Breizhcamp 2017](http://www.breizhcamp.org/) une conférence sur la blockchain.
 
 
 <!-- more -->
