@@ -1,1 +1,2 @@
-https://blog.dlecan.com/*  https://dlecan.com/blog/:splat 302
+https://blog.dlecan.com/  https://dlecan.com/blog/ 301!
+https://blog.dlecan.com/*  https://dlecan.com/blog/:splat 301
