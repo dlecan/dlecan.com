@@ -1,3 +1,6 @@
 [submodule "themes/DeepThought"]
 	path = themes/DeepThought
 	url = https://github.com/RatanShreshtha/DeepThought.git
+[submodule "themes/dlecan-zola-theme"]
+	path = themes/dlecan-zola-theme
+	url = git@github.com:dlecan/dlecan-zola-theme.git
