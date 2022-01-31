@@ -18,4 +18,4 @@ Merci !
 
 Les support de présentation :
 
-[![Support de présentation de la conférence](cover.png)](http://blog.dlecan.com/web2day2016-ssl-simple-gratuit-avec-lets-encrypt/)
+[![Support de présentation de la conférence](cover.png)](http://dlecan.github.io/web2day2016-ssl-simple-gratuit-avec-lets-encrypt/)

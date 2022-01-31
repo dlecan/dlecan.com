@@ -12,7 +12,7 @@ Je les ai présentés et comparés lors de ce meetup organisé par [SQLI Nantes]
 
 Support de présentation :
 
-[<img src="/images/prez-meetup-sqli-go-rust/cover.png" width="752" height="366" alt='Support de présentation de la conférence'>](http://blog.dlecan.com/meetupsqlinantes2015-prez/#2)
+[<img src="/images/prez-meetup-sqli-go-rust/cover.png" width="752" height="366" alt='Support de présentation de la conférence'>](http://dlecan.github.io/meetupsqlinantes2015-prez/#2)
 
 La vidéo (à partir de 66' pour ma conférence "Go & Rust") :
 

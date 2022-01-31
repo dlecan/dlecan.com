@@ -18,7 +18,7 @@ J'y ai présenté la conférence "Mettez un Panda Roux dans votre Webview", dont
 
 Et le support de présentation :
 
-[![Support de présentation de la conférence](cover.png)](http://blog.dlecan.com/devfestnantes2014/prez-panda-roux-webview-android/)
+[![Support de présentation de la conférence](cover.png)](http://dlecan.github.io/devfestnantes2014/prez-panda-roux-webview-android/)
 
 La vidéo :
 

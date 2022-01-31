@@ -48,4 +48,4 @@ That's it! Just replace `git@github.com:dlecan/dlecan.github.com.git` by your Gi
 
 This blog is also built thanks to Cloudbees :) {% img right http://web-static-cloudfront.s3.amazonaws.com/images/badges/BuiltOnDEV.png %}
 
-See it in action on this [Cloudbees Jenkins instance](https://play-war.ci.cloudbees.com/job/blog.dlecan.com/).
+See it in action on this [Cloudbees Jenkins instance](https://play-war.ci.cloudbees.com/job/dlecan.github.io/).

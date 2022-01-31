@@ -15,4 +15,4 @@ Merci pour l'apéro et pour le public !
 
 Support de présentation :
 
-[![Support de présentation de la conférence](cover.png)](http://blog.dlecan.com/lib-android-dev-carre/prez/)
+[![Support de présentation de la conférence](cover.png)](http://dlecan.github.io/lib-android-dev-carre/prez/)
