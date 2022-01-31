@@ -7,7 +7,8 @@ taxonomies:
   tags: [Blockchain Paris, conference, keynote, decentralisation, blockchain, speaker]
 ---
 
-J'ai présenté la semaine dernière [la keynote "État de l'art de Blockchain & co."](https://blockchainevent.fr/2018/speakers/damien-lecan/) à [Blockchain Paris 2018](https://blockchainevent.fr/2018/) à la Cité Universitaire Internationale. L'occasion de revenir sur les bases de la Blockchain.
+J'ai présenté la semaine dernière [la keynote "État de l'art de Blockchain & co."](https://blockchainevent.fr/2018/speakers/damien-lecan/) à [Blockchain Paris 2018](https://blockchainevent.fr/2018/) à la Cité Universitaire Internationale.
+L'occasion de revenir sur les bases de la Blockchain.
 
 <!-- more -->
 
@@ -20,6 +21,8 @@ Quelques éléments que j'ai présenté :
 
 ## Les slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXfdvrmc3N6tSMAekUYySxawdomejhRfx9lzSzIshDqpAg7y-0KCAdnu723m7GdeTvrpc-WE4QqfqA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="560" height="349" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<figure class="image is-16by9">
+<iframe class="has-ratio" src="https://docs.google.com/presentation/d/e/2PACX-1vSXfdvrmc3N6tSMAekUYySxawdomejhRfx9lzSzIshDqpAg7y-0KCAdnu723m7GdeTvrpc-WE4QqfqA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="560" height="349" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 Merci au public présent !
