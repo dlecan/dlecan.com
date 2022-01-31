@@ -102,7 +102,7 @@ Un simple `sbt update` dans un projet SBT suffit à vérifier la bonne mise à j
 
 # Et pour Play Framework 2 ?
 
-Cette configuration ne fonctionnant pas pour Play Framework 2, [consultez cet article dédié](@/posts/2013-06-03-configurer-play-framework-repository-artifactory.md).
+Cette configuration ne fonctionnant pas pour Play Framework 2, [consultez cet article dédié](@/blog/2013-06-03-configurer-play-framework-repository-artifactory.md).
 
 [scala-sbt]: http://www.scala-sbt.org/	"Projet Scala SBT"
 [maven]: http://maven.apache.org/ 		"Projet Maven"
