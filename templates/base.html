@@ -1,4 +1,10 @@
-{% extends "dlecan-zola-theme/templates/base.html" %} {% block
-user_custom_stylesheet %}
+{% extends "dlecan-zola-theme/templates/base.html" %}
+
+{% block user_custom_stylesheet %}
 <link href="{{ get_url(path='dlecan.css') }}" rel="stylesheet" />
+{% endblock %}
+
+{% block analytics %}
+<script data-goatcounter="https://dlecan.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 {% endblock %}
