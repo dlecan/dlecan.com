@@ -8,8 +8,8 @@
 - [x] migrer le 'about' de www.dlecan.com
 - [x] changer les credits en bas du site
 - [x] adapter les 3 derniers anciens posts à la nouvelle syntaxe
-- [] mettre en place les redirections depuis [www|blog].dlecan.com vers dlecan.com
-- [] déployer dlecan.com sur Netlify
-- [] adapter tous les autres anciens posts à la nouvelle syntaxe
+- [x] mettre en place les redirections depuis [www|blog].dlecan.com vers dlecan.com
+- [x] déployer dlecan.com sur Netlify
+- [x] adapter tous les autres anciens posts à la nouvelle syntaxe
 - [] changer façon dont les pages de pagination sont numérotées (cf. https://www.rockyourcode.com/)
 - [] afficher un last-modified. Possible ?
