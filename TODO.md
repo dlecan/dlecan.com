@@ -12,6 +12,8 @@
 - [x] déployer dlecan.com sur Netlify
 - [x] adapter tous les autres anciens posts à la nouvelle syntaxe
 - [x] changer façon dont les pages de pagination sont numérotées (cf. https://www.rockyourcode.com/)
-- [] améliorer le nuage de tags
+- [] mettre en place données opengraph et twitter card
+- [] gérer une image de couverture de post
 - [] afficher 3 à 5 articles en bas de post : pondérer par poids du tag, ancienneté de l'article, le nm de mots de l'article
+- [] améliorer le nuage de tags
 - [] afficher un last-modified. Possible ?
