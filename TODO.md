@@ -11,5 +11,5 @@
 - [x] mettre en place les redirections depuis [www|blog].dlecan.com vers dlecan.com
 - [x] déployer dlecan.com sur Netlify
 - [x] adapter tous les autres anciens posts à la nouvelle syntaxe
-- [] changer façon dont les pages de pagination sont numérotées (cf. https://www.rockyourcode.com/)
+- [x] changer façon dont les pages de pagination sont numérotées (cf. https://www.rockyourcode.com/)
 - [] afficher un last-modified. Possible ?

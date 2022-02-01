@@ -8,3 +8,33 @@
 <script data-goatcounter="https://dlecan.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 {% endblock %}
+
+{% block pagination %}
+{% if paginator.previous or paginator.next %}
+<section class="section">
+  <div class="container is-max-desktop">
+    <nav class="pagination is-centered" role="navigation" aria-label="pagination">
+      <a class="pagination-previous" href='{{ paginator.previous }}' {% if not paginator.previous %}disabled{% endif %}>
+        <span class="icon">
+          <i class="fas fa-angle-double-left"></i>
+        </span>
+        Previous page
+      </a>
+      <ul class="pagination-list">
+        <li>
+          <a class="pagination-link is-current" href='{{ paginator.base_url }}{{paginator.current_index}}' aria-label="Goto page {{paginator.current_index}}">
+            {{paginator.current_index}}
+          </a>
+        </li>
+      </ul>
+      <a class="pagination-next" href='{{ paginator.next }}' {% if not paginator.next %}disabled{% endif %}>
+        Next page
+        <span class="icon">
+          <i class="fas fa-angle-double-right"></i>
+        </span>
+      </a>
+    </nav>
+  </div>
+</section>
+{% endif %}
+{% endblock %}
