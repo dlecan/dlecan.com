@@ -42,7 +42,7 @@ Add the following content:
 ```
 Package: firefox*
 Pin: release o=LP-PPA-mozillateam
-Pin-Priority: 501
+Pin-Priority: 1000
 ```
 
 This file will prevent Ubuntu from restoring the transitional Firefox package.
